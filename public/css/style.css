@@ -1,0 +1,127 @@
+*{
+    margin: 0; padding: 0; box-sizing: border-box;
+}
+
+.fir_nav{
+    font-size: 14px;
+}
+
+.sec_nav{
+    font-size: 17px;
+}
+
+.navbar ul li a{
+    color: black !important;
+}
+
+.home_card{
+    border: none;
+}
+
+.small_text{
+    font-size: 10px;
+}
+
+.mcCafe_card{
+    border: none;
+}
+
+.mcCafe_card h2{
+    font-weight: bolder;
+}
+
+.top_div h2{
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.Food_card{
+    border: none;
+}
+
+.food_sec_div{
+    font-weight: 700;
+}
+
+.food_fir_div h1{
+    font-size: 48px;
+    font-weight: bolder;
+}
+/* ////////////////////////////////////////// */
+.mail_div input{
+    border: none;
+    outline: none;
+    width: 60vw;
+    padding: 5px;
+    border-bottom: 1px solid rgb(201, 199, 199);
+    margin: 5px;
+}
+
+.mail_div h2{
+    font-weight: 700;
+}
+
+.mail_div input:focus{
+    border-bottom: 1px solid black;
+}
+
+.sign_div_1 h1{
+    font-weight: 800;
+    font-size: 56px;
+}
+
+.sign_div_2 h2{
+    font-weight: bolder;
+
+}
+
+.sign_div_last h2{
+    font-weight: bolder;
+}
+
+.sign_div_last h1{
+    font-weight: 400;
+}
+
+.footer_div p{
+    margin: 0%;
+}
+
+.footer_div ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+.footer_div ul .fa-facebook:hover{
+    color: rgb(0, 60, 255);
+}
+
+.footer_div ul .fa-twitter:hover{
+    color: rgb(6, 147, 241);
+}
+
+.footer_div ul .fa-youtube:hover{
+    color: rgb(255, 0, 0);
+}
+
+.footer_div ul .fa-instagram:hover{
+    color: rgb(216, 1, 134);
+}
+
+.footer_div ul .fa-spotify:hover{
+    color: rgb(0, 202, 0);
+}
+
+.active{
+    font-weight: bolder;
+}
+
+.trend_div_1 h1{
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.common h2{
+    font-weight: 700;
+    font-size: 36px;
+}
